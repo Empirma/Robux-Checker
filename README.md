@@ -1,4 +1,4 @@
-# Roblox-Robux-Checker
+# Robux-Checker
 
 Calculates all the Robux in the inserted cookies
 
